@@ -30,7 +30,7 @@ HDMI和Type-c 显示正常，HDMI支持4K120HZ
 
 I226V 网卡正常
 
-intel AX200 WiFi 和蓝牙支持
+intel AX210 WiFi 和蓝牙支持
 
 睡眠与唤醒正常
 
