@@ -41,3 +41,5 @@ intel AX210 WiFi 和蓝牙支持
 ![alt text](image.png)
 2、添加了harmoney OS的预览背景图(图源忘了哪里找的了，侵删)
 ![alt text](20240215_230719.jpg)
+
+注：经我测试，如果买的是准系统，第一次使用必须安装Windows或是Linux后去安装AMD的驱动(推荐去使用Windows安装，因为Linux一开始不能使用后置HDMI接口，只能使用前置typec)，可能包括一些芯片组驱动等。如果不这么做会导致Linux和MacOS后置HDMI无法使用(只能使用前置Typec输出)、wifi不正常等多种问题，这些问题打过一次驱动就完全正常了。
